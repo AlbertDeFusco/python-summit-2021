@@ -1,0 +1,10 @@
+name: bikeshare
+
+dependencies:
+  - python=3.8
+  - notebook
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - joblib
+  - tranquilizer
