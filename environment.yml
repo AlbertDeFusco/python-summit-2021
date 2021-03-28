@@ -2,9 +2,9 @@ name: bikeshare
 
 dependencies:
   - python=3.8
-  - notebook
-  - pandas
-  - matplotlib
-  - scikit-learn
-  - joblib
-  - tranquilizer
+  - notebook=6.2
+  - pandas=1.2
+  - matplotlib=3.3
+  - scikit-learn=0.24
+  - joblib=1.0
+  - tranquilizer=0.5
