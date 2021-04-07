@@ -2,6 +2,8 @@
 
 Presented at [Python for ML and AI Global Summit '21 by Geekle](https://python.geekle.us/)
 
+See slides [here](https://www.slideshare.net/AlbertDeFusco/tranquilizer)
+
 ## Local Setup
 
 This repository contains the notebooks presented during my talk. To setup your system:
